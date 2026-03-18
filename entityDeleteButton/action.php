@@ -15,6 +15,8 @@ use Bitrix\Crm\Service\Container;
 */
 const SMART_PROCESS_FIELD_MAP = [
     'UF_CRM_1768381090' => 1042,
+    'UF_CRM_1773808972' => 1068,
+
 ];
 
 header('Content-Type: application/json; charset=UTF-8');

@@ -403,7 +403,7 @@
 
       buttons: [
         new BX.PopupWindowButton({
-          text: 'Вывести выбранное в консоль',
+          text: 'Удалить элемент',
           className: 'popup-window-button-accept',
           events: {
             click: function () {
